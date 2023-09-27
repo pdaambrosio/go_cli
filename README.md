@@ -1,6 +1,6 @@
 # go_cli
 
-Building a CLI Application with Go
+Building a CLI Applications with Go
 
 ## createUser
 
@@ -18,4 +18,3 @@ This go application is used to create a user in the Linux. It will create a user
 Enter the user's password:
 User connor created successfully.
 ```
-
